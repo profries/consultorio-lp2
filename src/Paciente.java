@@ -1,10 +1,7 @@
-
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
-
-
-
+//Classe Paciente
 public class Paciente {
     private String rg;
     private String nome;
